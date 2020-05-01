@@ -30,6 +30,11 @@ main article {
   padding-bottom: 20px;
 }
 
+main article img {
+  margin: 10px 0;
+  max-width: 100%;
+}
+
 footer {
   background-color: #5d5d5d;
   min-height: 100px;
